@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE data [
+<!ENTITY example SYSTEM "https://raw.githubusercontent.com/Ac3rN/centos8-scripts/main/helloworldthisworks.txt"> 
+]>
+<data>&example;</data>
