@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="data:text/css, 
+food%20%7B%0A%20%20border%3A%201px%20solid%20%23ddd%3B%0A%20%20margin%3A%2020px%3B%0A%20%20padding%3A%2010px%3B%0A%7D%0Aname%20%7B%0A%20%20color%3A%20red%3B%0A%20%20font-weight%3A%20bold%3B%0A%7D%0Aprice%2C%20description%2C%20calories%20%7B%0A%20%20display%3A%20block%3B%0A%20%20margin%3A%205px%200%3B%0A%7D%0A">
+<breakfast_menu>
+    <food>
+        <name>Belgian Waffles</name>
+        <price>$5.95</price>
+        <description>
+            Two of our famous Belgian Waffles with plenty of real maple syrup
+        </description>
+        <calories>650</calories>
+    </food>
+    <!-- More food items... -->
+</breakfast_menu>
